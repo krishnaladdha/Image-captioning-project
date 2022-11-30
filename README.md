@@ -17,6 +17,11 @@ d. Building LSTM model for training
 
 e. Predicting on test data
 
+All the steps are executed in the notebook.
 
-Conclusion:
+
+
+
+##Conclusion:
+
 Successfully completed the project with good test results and great understanding.
