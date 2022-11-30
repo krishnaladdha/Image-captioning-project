@@ -6,10 +6,15 @@ In this project Flicker8k(standard dataset) is used, and Captions are generated 
 The preprocessing of Image is done my CNN and using VGG 16 Transfer Learning.
 
 Flow of the project
+
 a. Cleaning the caption data
+
 b. Extracting features from images using VGG-16
+
 c. Merging the captions and images
+
 d. Building LSTM model for training
+
 e. Predicting on test data
 
 
